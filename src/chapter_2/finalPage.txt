@@ -1,0 +1,7 @@
+
+
+so for learned git flow for 
+
+comit push 
+
+and pull / update
