@@ -1,7 +1,7 @@
 
 
-this is the stars of my book
-Page 1 will help us get started
+this is the stars of my book.
+Page 1 will help us get started>>
 
 Java is cool
 
